@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h4>
+  I'm Swayam, a passionate 3rd-year CSE engineering student who aims to make a positive impact on society. With a strong desire to help others, I'm dedicated to leveraging technology to create innovative solutions that contribute to the betterment of our world.</h4>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
