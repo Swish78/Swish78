@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h4>
-  I'm Swayam, a passionate 3rd-year CSE engineering student who aims to make a positive impact on society. With a strong desire to help others, I'm dedicated to leveraging technology to create innovative solutions that contribute to the betterment of our world.</h4>
+  I'm Swayam, a passionate 4th-year CSE engineering student who aims to make a positive impact on society. With a strong desire to help others, I'm dedicated to leveraging technology to create innovative solutions that contribute to the betterment of our world.</h4>
 
 
 ## Here are some ideas to get you started:
