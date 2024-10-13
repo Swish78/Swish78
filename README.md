@@ -32,7 +32,7 @@ I'm always excited to collaborate on projects related to:
 Feel free to reach out if you'd like to collaborate or discuss new ideas! Let's create something impactful together.
 
 ### 🌐 Connect with Me:
-- **[LinkedIn](linkedin.com/in/swayam-p-9b7187224)**
+- **[LinkedIn](https://www.linkedin.com/in/swayam-p-9b7187224/)**
 - **[Kaggle](kaggle.com/swish9/code)**
 - **[LeetCode](leetcode.com/swish78)**
 - **[Medium](medium.com/@swayampatil7918)**
