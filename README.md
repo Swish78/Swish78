@@ -1,4 +1,4 @@
-# Yo, I'm Swayam Patil! 👋
+# Yo, I'm Swayam! 👋
 
 ### 🚀 Final-Year CSE Student | Machine Learning Enthusiast | Software Developer
 
