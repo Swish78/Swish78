@@ -5,7 +5,7 @@ I am a Software Engineer working on backend systems and machine learning pipelin
 I build microservices using **FastAPI**, **Django**, and **Node.js**, often pairing them with **React** or **Jinja** frontends. Much of my work involves processing image and text data for AI workflows, including agentic systems. I design architectures that handle structured, unstructured, and graph data, utilizing **RabbitMQ** and **Celery** for asynchronous tasks. I deploy these solutions on both **AWS** and **Azure**.
 
 ### 🔗 Profiles
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE) • [LeetCode](https://leetcode.com/YOUR_LEETCODE_USERNAME) *(Knight)* • [Kaggle](https://www.kaggle.com/YOUR_KAGGLE_USERNAME) *(Expert)*
+[LinkedIn]([https://linkedin.com/in/YOUR_LINKEDIN_HANDLE](https://www.linkedin.com/in/swayam-p-9b7187224/)) • [LeetCode]([https://leetcode.com/YOUR_LEETCODE_USERNAME](https://leetcode.com/u/swish78/)) *(Knight)* • [Kaggle]([https://www.kaggle.com/YOUR_KAGGLE_USERNAME](https://www.kaggle.com/swish9)) *(Expert)*
 
 ---
 
@@ -45,6 +45,6 @@ I build microservices using **FastAPI**, **Django**, and **Node.js**, often pair
 
 ### 📊 GitHub Stats
 
-![Swayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=graywhite&hide_border=true)
+![Swayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swish78&show_icons=true&theme=graywhite&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=graywhite&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swish78&layout=compact&theme=graywhite&hide_border=true)
