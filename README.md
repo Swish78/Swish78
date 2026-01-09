@@ -36,19 +36,9 @@ I build microservices using **FastAPI**, **Django**, and **Node.js**, often pair
 > **Cloud Storage:** `AWS S3` `Azure Blob`
 
 **Cloud & DevOps**
-> `AWS (EC2, Lambda)` `Azure` `Git` `Linux`
+> `AWS` `Azure` `Git` `Linux`
 
 **Frontend**
 > `React` `Jinja2` `HTML/CSS`
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Swayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swish78&show_icons=true&theme=graywhite&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swish78&layout=compact&theme=graywhite&hide_border=true)
-
-</div>
